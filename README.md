@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am Audi 👋
+![Audi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AudiWu)
 <!--
 **AudiWu/AudiWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
