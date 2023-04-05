@@ -2,7 +2,7 @@
 
 ## My Stats
 ![Audi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AudiWu)
-![](https://leetcard.jacoblin.cool/audiwu321
+![](https://leetcard.jacoblin.cool/audiwu321)
 
 <!--
 **AudiWu/AudiWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
