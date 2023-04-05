@@ -2,9 +2,8 @@
 
 ## My Stats
 ![Audi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AudiWu)
-![](https://leetcard.jacoblin.cool/audiwu321)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AudiWu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AudiWu&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://leetcard.jacoblin.cool/audiwu321
+
 <!--
 **AudiWu/AudiWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
